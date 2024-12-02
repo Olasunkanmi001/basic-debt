@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import ProjectCard from "./components/ProjectCard";
 import Footer from "./components/Footer";
-import projects from "./data/projects";
+import projects from "./data/Projects";
 
 const App = () => {
   return (
